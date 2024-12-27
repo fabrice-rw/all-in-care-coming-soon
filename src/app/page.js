@@ -5,7 +5,7 @@ export default function Home() {
     <div className="flex flex-col items-center justify-center min-h-screen bg-gradient-to-br from-gray-800 via-gray-900 to-black text-white font-[family-name:var(--font-geist-sans)]">
       <div className="text-center px-6 max-w-2xl">
         <h1 className="text-5xl md:text-7xl font-semibold tracking-tight mb-6">
-        &copy; All In Care Ltd.
+        &copy; 2025 <br> All In Care Ltd.
         </h1>
         <p className="text-xl md:text-2xl font-light mb-12 text-gray-300">
           Coming soon. Stay tuned!
